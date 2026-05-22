@@ -13,7 +13,7 @@ pipeline {
                 // Jenkins checks out your repository automatically
                 // when Pipeline script from SCM is configured.
                 // This stage makes the step explicit.
-                checkout ___
+                checkout scm
             }
         }
 
