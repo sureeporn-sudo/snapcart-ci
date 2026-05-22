@@ -34,3 +34,4 @@ pipeline {
         }
     }
 }
+//Successfully built snapcart:1
